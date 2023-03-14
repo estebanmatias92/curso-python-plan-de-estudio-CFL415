@@ -61,16 +61,31 @@
     - Grupo
   - Trabajo en clase (2da parte)
 - _**Clase 3:**_
+  - Trabajo en clase (1ra parte)
+    - [Guia 2: Estructuras de Control de Flujo](https://docs.google.com/document/d/1q-Ukd9ehutmV8knrUYJWUCMe4X4lM6vCr2_DDcTmCm4/edit?usp=sharing)
 - _**Clase 4:**_
+  - Espacio de Preguntas
+    - Grupo
+  - Trabajo en clase (2da parte)
 - _**Clase 5:**_
   - Trabajo en clase (1ra parte)
-    - [Guia 3: Funciones]()
+    - [Guia 3: Funciones](https://docs.google.com/document/d/180BouVEpBP9wACpsW32aiSiOfEg7mOFler7KqdvQKrs/edit?usp=sharing)
   - Recursos
     - [Glosario: Anatomía del Código (II)](https://docs.google.com/document/d/1ANHRdT6TXfOcOM5haP_imd3pP-KSVhnzalRb1zbCh10/edit?usp=sharing)
       - [Imagen: Anatomia del codigo]()
       - [Imagen: Anatomia de una Funcion]()
+- _**Clase 6:**_
+  - Espacio de Preguntas
+    - Grupo
+  - Trabajo en clase (2da parte)
+- _**Clase 7**_
+  - Trabajo en clase (1ra parte)
+    - [Guia 4: Estructuras de Datos (II) - Colecciones](https://docs.google.com/document/d/1Z6Vjz8NfbDBUFD0IgVQB8K0VzmO4gm7UTdZ9sw85xkM/edit?usp=sharing)
 
 ### Unidad 2: Proyecto Final
 
-...
+- _**Clase 11**_
+  - Trabajo en clase (1ra parte)
+    - [Guia 5: Estructuras de Datos (III) - Clases](https://docs.google.com/document/d/1jFqjk1HTbukBDI_dYl2JmYJdkNz4rH3R8rP_9l566Ik/edit?usp=sharing)
+
 **Proyecto integrador: Esta aplicación podría ser un sistema de registro de empleados.**
