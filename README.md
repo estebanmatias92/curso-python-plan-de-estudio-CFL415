@@ -58,6 +58,7 @@
   - [Hola mundo](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%201/Demo/hola_mundo.py)
   - [Entrada y salida de datos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%201/Demo/entrada_salida.py)
   - [Operaciones aritmeticas basicas](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%201/Demo/aritmetica.py)
+  - [Operadores Logicos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%201/Demo/operadores_logicos.py)
 - [Anatomía del Código (I) - Sentencias, Expresiones, Variables y Operadores](https://docs.google.com/document/d/1x05TEvptNmd2wyo5TsOFnmxXzQVtSFkVTSawUbf-9LI/edit?usp=sharing)
   - [Imagen: Anatomia de una Sentencia](https://drive.google.com/file/d/1OUOsqQsQIiIYDOSWMjSoelrtTsiWdvvO/view?usp=sharing)
   - [Imagen: Anatomia de una Expression + Operadores Logicos](https://drive.google.com/file/d/1OZw-opNLfSNCU8mN66d6EblATrM_VYTa/view?usp=sharing)
