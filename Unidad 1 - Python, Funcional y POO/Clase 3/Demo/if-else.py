@@ -1,14 +1,16 @@
 
 
+print("\nPrograma con IF que comprueba que un dato sea solo alfabetico: ")
 # If
 mi_nombre = "Matias"
 
 if mi_nombre.isalpha():                                     # .isalpha() comprueba que un string sea solo alfabetico
-    print("\nEl valor de mi_nombre es solo alfabetico\n")
+    print("El valor de mi_nombre es solo alfabetico\n")
 
 
 
 
+print("\nPrograma con IF-ELSE que comprueba que un dato sea igual a otro: ")
 # If - Else
 otro_nombre = "Jorge"
 
@@ -21,6 +23,7 @@ else:
 
 
 
+print("\nPrograma con IF-ELIF-ELSE que comprueba que dos datos numeros sean negativos o positivos: ")
 # If - Elif - Else
 one = 5
 two = 10
