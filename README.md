@@ -80,17 +80,17 @@
 #### Clase 3
 
 - Demo
-  - if/else
-  - for
-  - while
+  - [if-else](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/if-else.py)
+  - [for](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/for.py)
+  - [while](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/while.py)
 - [Imagen: Anatomia Sentencia If/Else]()
 - [Imagen: Anatomia Sentencia For]()
 - [Imagen: Anatomia Sentencia While]()
 - **Trabajo en clase (1ra parte)**
   - [Guia 2: Estructuras de Control de Flujo](https://docs.google.com/document/d/1q-Ukd9ehutmV8knrUYJWUCMe4X4lM6vCr2_DDcTmCm4/edit?usp=sharing)
     - Recursos
-      - [if/else](https://docs.google.com/document/d/1LuA9p1DqWhd4i58Y4z--9d9vBUqML-iYQc14feDX9hg/edit?usp=sharing)
-      - [Sentencia If Else de Python (freecodecamp)](https://www.freecodecamp.org/espanol/news/sentencia-if-else-de-python-explicacion-de-las-sentencias-condiciones/)
+      - [if-else](https://docs.google.com/document/d/1LuA9p1DqWhd4i58Y4z--9d9vBUqML-iYQc14feDX9hg/edit?usp=sharing)
+      - [Sentencia If-Else de Python (freecodecamp)](https://www.freecodecamp.org/espanol/news/sentencia-if-else-de-python-explicacion-de-las-sentencias-condiciones/)
       - [for](https://docs.google.com/document/d/1zTt9Bm3hOCvNH8ilPEVv80U4InRnLxIERa3iV9w6qQo/edit?usp=sharing)
       - [while](https://docs.google.com/document/d/1q5fWTtkn41-yH16xYtjGhKOWkNm_5mcQg_H_E0xACC8/edit?usp=sharing)
       - [Python Handbook Español - Bucles (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#loopsinpython)
@@ -104,10 +104,9 @@
 #### Clase 5
 
 - Demo
-  - Definir y llamar funciones
-  - Parametros y Argumentos
-  - Return
-  - Funciones sin retorno
+  - [Definir y llamar funciones](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%205/Demo/functions-no-return.py)
+  - [Funciones con retorno](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%205/Demo/functions.py)
+  - [Parametros y Argumentos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%205/Demo/functions.py)
 - [Anatomía del Código (II) - Procesos y Funciones](https://docs.google.com/document/d/1ANHRdT6TXfOcOM5haP_imd3pP-KSVhnzalRb1zbCh10/edit?usp=sharing)
   - [Imagen: Anatomia de un Proceso]()
   - [Imagen: Anatomia de una Funcion]()
@@ -128,10 +127,10 @@
 #### Clase 7
 
 - Demo
-  - Listas (list)
-  - Tuplas (tuple)
-  - Diccionarios (dict)
-  - Conjuntos (set)
+  - [Listas (list)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%207/Demo/listas.py)
+  - [Tuplas (tuple)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%207/Demo/tuples.py)
+  - [Diccionarios (dict)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%207/Demo/dictionaries.py)
+  - [Conjuntos (set)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%207/Demo/sets.py)
 - **Trabajo en clase (1ra parte)**
   - [Guia 4: Estructuras de Datos (II) - Colecciones](https://docs.google.com/document/d/1Z6Vjz8NfbDBUFD0IgVQB8K0VzmO4gm7UTdZ9sw85xkM/edit?usp=sharing)
     - Recursos
@@ -150,8 +149,8 @@
 #### Clase 11
 
 - Demo
+  - [Definir clases](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%202%20-%20Proyecto%20Final/Clase%2011/Demo/classes.py)
   - Clases vs Objetos
-  - Definir clases
   - Inicializar objetos
   - Metodo constructor
   - Metodos y Propiedades
