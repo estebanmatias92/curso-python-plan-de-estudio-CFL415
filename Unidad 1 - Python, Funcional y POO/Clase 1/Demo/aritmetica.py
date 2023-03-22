@@ -12,6 +12,6 @@ division = mi_var1 / mi_var2
 
 # Usando los resultados para mostrarlos por pantalla
 print("\nEl resultado de la suma es: ", suma)
-print("\nEl resultado de la suma es: ", resta)
-print("\nEl resultado de la suma es: ", multiplicacion)
-print("\nEl resultado de la suma es: ", division)
+print("\nEl resultado de la resta es: ", resta)
+print("\nEl resultado de la multiplicacion es: ", multiplicacion)
+print("\nEl resultado de la division es: ", division)

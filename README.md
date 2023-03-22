@@ -71,6 +71,7 @@
       - [Tipos de Datos - Funciones/Metodos Tipicos](https://docs.google.com/document/d/16cr0tFi2WmSWPjK0gCcHHs1EoiRKIefcqpDzB8-FVYI/edit?usp=sharing)
       - [Python String Methods (GFG)](https://www.geeksforgeeks.org/python-string-methods/)
       - [Tablas de Verdad (Conectores o Compuertas Logicas)](https://lamaquinaoraculo.com/matematicas/tablas-verdad-proposicional/)
+      - [Tablas de Verdad (Platzi)](https://www.youtube.com/watch?v=Pfyuv5ZnNNw)
       - [Operadores (I)](https://docs.google.com/document/d/1s5JDnLh8JhvSQxtsx2ZIYkeqnwo17Fn3Yd4Mb45SKrQ/edit?usp=sharing)
 
 #### Clase 2
