@@ -86,9 +86,9 @@
   - [if-else](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/if-else.py)
   - [for](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/for.py)
   - [while](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/while.py)
-- [Imagen: Anatomia Estructura de Control If-Else]()
-- [Imagen: Anatomia Estructura de Control For]()
-- [Imagen: Anatomia Estructura de Control While]()
+- [Imagen: Anatomia Estructura de Control If-Else](https://drive.google.com/file/d/1gZSIrwyC5VVpeGehatltLCU2iOgrajZm/view?usp=sharing)
+- [Imagen: Anatomia Estructura de Control For](https://drive.google.com/file/d/1gq_WoR03LujH1MxDQph51w67RjQMZpp9/view?usp=sharing)
+- [Imagen: Anatomia Estructura de Control While](https://drive.google.com/file/d/1gmGaJq56Yb8ssTELCZDBAzOMfEhU5Dnr/view?usp=sharing)
 - **Trabajo en clase (1ra parte)**
   - [Guia 2: Estructuras de Control de Flujo](https://docs.google.com/document/d/1q-Ukd9ehutmV8knrUYJWUCMe4X4lM6vCr2_DDcTmCm4/edit?usp=sharing)
     - Recursos
@@ -111,8 +111,8 @@
   - [Funciones con retorno](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%205/Demo/functions.py)
   - [Parametros y Argumentos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%205/Demo/functions.py)
 - [Anatomía del Código (II) - Procesos y Funciones](https://docs.google.com/document/d/1ANHRdT6TXfOcOM5haP_imd3pP-KSVhnzalRb1zbCh10/edit?usp=sharing)
-  - [Imagen: Anatomia de un Proceso]()
-  - [Imagen: Anatomia de una Funcion]()
+  - [Imagen: Anatomia de una Funcion](https://drive.google.com/file/d/1h_dJPsWyhRtA0SfCBAWsCD13x_eHghXR/view?usp=sharing)
+  - [Imagen: Anatomia de una Funcion (con Return)](https://drive.google.com/file/d/1hSwtQdx12uPSGPrMTYZeUgLLH4Ofjgp5/view?usp=sharing)
 - **Trabajo en clase (1ra parte)**
   - [Guia 3: Funciones](https://docs.google.com/document/d/180BouVEpBP9wACpsW32aiSiOfEg7mOFler7KqdvQKrs/edit?usp=sharing)
   - Recursos
