@@ -10,6 +10,7 @@
 - [Guia Python (aprenderconalf)](https://aprendeconalf.es/docencia/python/ejercicios/tipos-datos/)
 - [Python dessde Cero (freecodecamp)](https://www.freecodecamp.org/espanol/news/aprende-a-programar-en-python-desde-cero-curso-completo-gratis/)
 - [Python Handbook Español (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/)
+- [Video Serie Python (Sergio A. Castaño Giraldo)](https://www.youtube.com/watch?v=aiNBMEjF9dM&list=PLF-qcfymUY4X77SGRkIK9kswlfD1L-eAu&index=1)
 
 ### Unidad 0: Presentaciones, Contexto e Introduccion Teorica
 
@@ -93,9 +94,9 @@
   - [Guia 2: Estructuras de Control de Flujo](https://docs.google.com/document/d/1q-Ukd9ehutmV8knrUYJWUCMe4X4lM6vCr2_DDcTmCm4/edit?usp=sharing)
     - Recursos
       - [if-else](https://docs.google.com/document/d/1LuA9p1DqWhd4i58Y4z--9d9vBUqML-iYQc14feDX9hg/edit?usp=sharing)
-      - [Sentencia If-Else de Python (freecodecamp)](https://www.freecodecamp.org/espanol/news/sentencia-if-else-de-python-explicacion-de-las-sentencias-condiciones/)
       - [for](https://docs.google.com/document/d/1zTt9Bm3hOCvNH8ilPEVv80U4InRnLxIERa3iV9w6qQo/edit?usp=sharing)
       - [while](https://docs.google.com/document/d/1q5fWTtkn41-yH16xYtjGhKOWkNm_5mcQg_H_E0xACC8/edit?usp=sharing)
+      - [Python Handbook Español - Condicionales (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#controlstatementsinpython)
       - [Python Handbook Español - Bucles (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#loopsinpython)
 
 #### Clase 4
