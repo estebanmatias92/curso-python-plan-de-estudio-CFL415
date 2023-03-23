@@ -2,7 +2,7 @@
 print("\nFuncion que solo saluda por pantalla: ")
 # Funcion sin parametro ni retorno
 def saludar():                      # Definiendo la funcion, No tiene parametros
-    print("Salundo a todos!\n")     # No retorna nada, solo muestra por pantalla
+    print("Saludando a todos!\n")     # No retorna nada, solo muestra por pantalla
 
 saludar()                           # Usando la funcion
 

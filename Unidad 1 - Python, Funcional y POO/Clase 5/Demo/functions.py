@@ -11,7 +11,7 @@ print("Resultado: ", sumar("Soy ", "un ", "String!"))     # Concatenando strings
 
 
 print("\nFuncion que comprueba si un numero primo o no: ")
-# Función con return
+# Función que retorna un booleano
 def es_primo(numero):               # Recibe como parametro "numero"
     if numero <= 1:                 # Comprueba que no sea menor o igual a 1
         return False                # En caso de ser asi retorna Falso
@@ -25,3 +25,28 @@ print(es_primo(2))      # Pasando como argumento el numero 2
 print(es_primo(3))      # ...
 print(es_primo(4))      # ...
 print(es_primo(5))      # ...
+
+
+
+print("\nFuncion realiza una suma y devuelve un resultado: ")
+
+def mi_funcion(param1, param2):
+    resultado = param1 + param2
+    return resultado
+
+arg1 = 3
+arg2 = 4
+
+resultado = mi_funcion(arg1, arg2)
+
+print("El resultado es: ", resultado) # 7
+
+
+
+
+
+
+
+
+
+

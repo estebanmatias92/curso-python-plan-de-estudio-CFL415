@@ -86,9 +86,9 @@
   - [if-else](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/if-else.py)
   - [for](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/for.py)
   - [while](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/Clase%203/Demo/while.py)
-- [Imagen: Anatomia Sentencia If/Else]()
-- [Imagen: Anatomia Sentencia For]()
-- [Imagen: Anatomia Sentencia While]()
+- [Imagen: Anatomia Estructura de Control If-Else]()
+- [Imagen: Anatomia Estructura de Control For]()
+- [Imagen: Anatomia Estructura de Control While]()
 - **Trabajo en clase (1ra parte)**
   - [Guia 2: Estructuras de Control de Flujo](https://docs.google.com/document/d/1q-Ukd9ehutmV8knrUYJWUCMe4X4lM6vCr2_DDcTmCm4/edit?usp=sharing)
     - Recursos

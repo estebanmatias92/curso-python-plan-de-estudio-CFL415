@@ -23,3 +23,23 @@ print("\nBucle FOR en reveresa: ")
 # Bucle for en reversa
 for i in range(10, -1, -1):         # El ultimo argumento asigna un valor negativo al paso
     print(i)                        # Mostrar linea por linea cada numero
+
+
+
+
+# Este código calculará la suma de los números del 1 al 10 y la imprimirá en pantalla.
+suma = 0
+
+for i in range(1, 11):
+    suma += i
+    
+print(suma)
+
+
+
+
+# Este código imprimirá cada carácter de la cadena "Hola mundo" en una línea separada.
+cadena = "Hola mundo"
+
+for caracter in cadena:
+    print(caracter)

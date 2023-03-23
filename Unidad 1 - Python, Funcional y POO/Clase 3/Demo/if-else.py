@@ -1,5 +1,19 @@
 
 
+print("\nPrograma con IF que comprueba que un numero sea menor, igual o mayor que 100: ")
+
+numero_ingresado = int(input("Por favor ingrese un numero cualquiera: "))
+
+if (numero_ingresado < 100):
+    print("El numero ingresado es menor que 100!")
+elif (numero_ingresado == 100):
+    print("El numero ingresado es igual a 100!")
+else:
+    print("El numero ingresado es mayor que 100!")
+
+
+
+
 print("\nPrograma con IF que comprueba que un dato sea solo alfabetico: ")
 # If
 mi_nombre = "Matias"
