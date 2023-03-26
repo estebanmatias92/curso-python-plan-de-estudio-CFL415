@@ -117,10 +117,9 @@
 - **Trabajo en clase (1ra parte)**
   - [Guia 3: Funciones](https://docs.google.com/document/d/180BouVEpBP9wACpsW32aiSiOfEg7mOFler7KqdvQKrs/edit?usp=sharing)
   - Recursos
-    - [Funciones]()
     - [Python Handbook Español - Funciones (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#functionsinpython)
-    - [Parametro y Argumento]()
-    - [Return]()
+    - [Parametros y Argumentos](https://docs.hektorprofe.net/python/programacion-de-funciones/argumentos-y-parametros/)
+    - [Return](https://docs.hektorprofe.net/python/programacion-de-funciones/retorno-de-valores/)
 
 #### Clase 6
 
