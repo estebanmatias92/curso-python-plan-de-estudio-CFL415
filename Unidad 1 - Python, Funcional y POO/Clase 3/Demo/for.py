@@ -21,17 +21,18 @@ for i in range(1, 10, 2):           # El rango tiene un inicio, un final y un pa
 
 print("\nBucle FOR en reveresa: ")                           
 # Bucle for en reversa
-for i in range(10, -1, -1):         # El ultimo argumento asigna un valor negativo al paso
+for i in range(-10, 1):         # El ultimo argumento asigna un valor negativo al paso
     print(i)                        # Mostrar linea por linea cada numero
 
 
 
 
 # Este código calculará la suma de los números del 1 al 10 y la imprimirá en pantalla.
+print("Suma acumulativa: ")
 suma = 0
 
 for i in range(1, 11):
-    suma += i
+    suma = suma + i
     
 print(suma)
 
@@ -41,5 +42,5 @@ print(suma)
 # Este código imprimirá cada carácter de la cadena "Hola mundo" en una línea separada.
 cadena = "Hola mundo"
 
-for caracter in cadena:
+for i in cadena:
     print(caracter)
