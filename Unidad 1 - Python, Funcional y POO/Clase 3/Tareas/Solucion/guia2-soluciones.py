@@ -219,12 +219,14 @@ es_primo = True                                                 # Asumir que el 
 
 print("")
 
-if (num < 2 or num % 2 == 0):                                   # Si es menor o divisible por 2, entonces no es primo
+if (num < 2):                                                   # Si es menor a 2, entonces es primo
+    es_primo = False
+elif (num > 2 and num % 2 == 0):                                # Si es mayor a 2 y divisible por 2, entonces no es primo
     es_primo = False
 else:
-    raiz_num = int(math.sqrt(num))
+    raiz_num = math.ceil(math.sqrt(num))                        # Obtengo la raiz de "num" 
 
-    for i in range(3, raiz_num + 1, 2):                         # Desde 3 hasta la raiz cuadrada de "num", pasando por todos los impares
+    for i in range(3, raiz_num, 2):                             # Desde 3 hasta la raiz cuadrada de "num", pasando por todos los impares
         if (num % i == 0):                                      # Comprobar si "num" es divisible por alguno de los impares
             es_primo = False                                    # Si lo es, entonces no era primo
             break
@@ -242,6 +244,7 @@ else:
 print("\n\nComprobar palindromo")
 palabra = input("Ingrese una palabra: ").lower()                # Pido por el STRING a comprobar, la convierto en minusculas tambien
 palabra_invertida = "".join(reversed(palabra))                  # Ese STRING lo invierto de orden, lo cual devuelve una LISTA y a esa LISTA la vuelvo a convertir en STRING
+#palabra_invertida = palabra[::-1]                              # Otro modo de invertir una cadena es usando el operador [::-1]
 es_palindromo = True                                            # Asumo que puede ser True desde el principio, deja como unico camino, comprobar que sea falso y cambiar su valor en consecuencia
 
 print("")
