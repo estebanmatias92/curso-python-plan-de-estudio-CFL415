@@ -1,5 +1,5 @@
-import math
-import random
+import math                                             # Libreria con funciones matematicas dentro
+import random                                           # Libreria o Modulo que tiene las funciones random
 
 
 #
@@ -79,6 +79,7 @@ else:
 # 
 print("\n\nComprobar vocales o consonantes")
 caracter = input("Ingrese una vocal o consonante: ")    # Primero pido el dato
+caracter = caracter.lower()                             # Convierto a minusculas para poder comparar solo entre minusculas
 
 print("")
 
@@ -239,16 +240,16 @@ else:
 # Ejercicio 12
 #
 print("\n\nComprobar palindromo")
-palabra = input("Ingrese una palabra: ").lower()
-palabra_invertida = "".join(reversed(palabra))
-es_palindromo = True
+palabra = input("Ingrese una palabra: ").lower()                # Pido por el STRING a comprobar, la convierto en minusculas tambien
+palabra_invertida = "".join(reversed(palabra))                  # Ese STRING lo invierto de orden, lo cual devuelve una LISTA y a esa LISTA la vuelvo a convertir en STRING
+es_palindromo = True                                            # Asumo que puede ser True desde el principio, deja como unico camino, comprobar que sea falso y cambiar su valor en consecuencia
 
 print("")
 
-if (palabra != palabra_invertida):
+if (palabra != palabra_invertida):                              # Si al comparar ambos STRING, no son iguales, entonces si cambio el valor a False
     es_palindromo = False
 
-if (es_palindromo):
+if (es_palindromo):                                             # Ahora puedo mostrar si fue o no Palindromo
     print("La palabra es palindromo!")
 else:
     print("La palabra no es palindromo :(")
@@ -259,29 +260,29 @@ else:
 # Ejercicio 13
 #
 print("\n\nAdivinar el numero entre 1 y 100")
-numero_aleatorio = random.randint(1, 100)
-intentos = 10
+numero_aleatorio = random.randint(1, 100)                       # Genero un numero entero random entre 1 y 100
+intentos = 10                                                   # Mi juego tendra intento, como condicion para perder, los asigno
 
 print("")
 
-while True:
-    if (intentos <= 0):
+while True:                                                     # Entro en el bucle
+    if (intentos <= 0):                                         # Primero compruebo de tener intentos disponibles
         print(f"Perdiste, el numero era ({numero_aleatorio})")
-        break
+        break                                                   # Sino salgo
     
     print(f"\nIntentos: {intentos}\n")
     
-    numero_adivinado = int(input("Ingrese un numero: "))
+    numero_adivinado = int(input("Ingrese un numero: "))        # Si no salio, es porque hay intentos, entonces empieza el juego
     
-    if (numero_aleatorio < numero_adivinado):
+    if (numero_aleatorio < numero_adivinado):                   # Sera menor?
         print("El numero que buscas es menor")
-    elif (numero_aleatorio > numero_adivinado):
+    elif (numero_aleatorio > numero_adivinado):                 # Sera mayor?
         print("El numero que buscas es mayor")
-    else:
+    else:                                                       # Cual sera?
         print(f"Ganaste!, has acertado al numero!")
-        break
+        break                                                   # Si acerto, sale
 
-    intentos -= 1
+    intentos -= 1                                               # Cada iteracion del bucle (cada vez que no corta por haber ganado), es un intento menos
 
 
 
@@ -290,26 +291,26 @@ while True:
 #
 print("\n\nJuego de dados")
 puntaje = 0
-seguir_jugando = True
+seguir_jugando = True                                                   # Asumo que al principio quiere empezar a jugar
 
 print("")
 
 while (seguir_jugando):
     print("\nTirando los dados...\n")
     
-    dado_uno = random.randint(1, 6)
-    dado_dos = random.randint(1, 6)
-    puntaje = puntaje + (dado_uno + dado_dos)
+    dado_uno = random.randint(1, 6)                                     # Genero un numero entero aleatorio entre 1 y 6
+    dado_dos = random.randint(1, 6)                                     # Genero otro mas
+    puntaje = puntaje + (dado_uno + dado_dos)                           # Sumo los dados
     
-    print(f"Primer dado: {dado_uno}")
+    print(f"Primer dado: {dado_uno}")                                   # Muestro dados
     print(f"Segundo dado: {dado_dos}")
     print("")
 
-    print(f"El puntaje acumulado hasta el momento es: {puntaje}")
-    respuesta = input("Desea continuar jugando? (Y/N): ").lower()
+    print(f"El puntaje acumulado hasta el momento es: {puntaje}")       # Muestro puntaje
+    respuesta = input("Desea continuar jugando? (Y/N): ").lower()       # Pregunto si quiere repetir
     print("")
 
-    if (respuesta == "n"):
+    if (respuesta == "n"):                                              # Si no quiere, sale con "n" o "N"
         seguir_jugando = False
 
 
@@ -318,7 +319,13 @@ while (seguir_jugando):
 # Ejercicio 15
 #
 print("\n\nPiedra, Papel o Tijera")
+############
+############ PRIMERA PANTALLA
+############
 print("\nGanar  = +1 puntos\nPerder = -1 puntos\nEmpate = 0 puntos\n")
+
+# En mi caso yo elijo hacer toda la logica solo con numeros
+# Al jugador le muestro las equivalencias para que sepa que ingresar
 print("1. Piedra")
 print("2. Papel")
 print("3. Tijera")
@@ -327,27 +334,33 @@ print("")
 puntaje = 0
 
 while True:
-    eleccion_computadora = random.randint(1, 3)
-    eleccion_jugador = int(input("Ingrese el numero de su jugada: "))
+    ############
+    ############ ETAPA DE ELECCION
+    ############
+    eleccion_computadora = random.randint(1, 3)                         # Para elegir, uso randint entre 1 y 3
+    eleccion_jugador = int(input("Ingrese el numero de su jugada: "))   # Y para que el jugador elija, se lo pido directamente a el
 
     print("")
 
-    if (eleccion_jugador < 1 or eleccion_jugador > 3):
-        print("Jugada invalida, saliendo...")
-        break
+    ############
+    ############ SEGUNDA PANTALLA
+    ############
+    if (eleccion_jugador < 1 or eleccion_jugador > 3):                  # Compruebo que el jugador no ingrese nada invalido
+        print("Jugada invalida, saliendo...")       
+        break                                                           # Si es invalido, sale del WHILE
 
-    print("\tComputadora:\t", end = "")
+    print("\tComputadora:\t", end = "")                                 # Empiezo a mostrar la eleccion de la computadora
     
-    if (eleccion_computadora == 1):
+    if (eleccion_computadora == 1):                                     # Sera una de estas 3
         print("Piedra")
     if (eleccion_computadora == 2):
         print("Papel")
     if (eleccion_computadora == 3):
         print("Tijera")
 
-    print("\tJugador:\t", end = "")
+    print("\tJugador:\t", end = "")                                     # Tambien muestro la eleccion del jugador
 
-    if (eleccion_jugador == 1):
+    if (eleccion_jugador == 1):                                         # Debera ser una de estas tres
         print("Piedra")
     if (eleccion_jugador == 2):
         print("Papel")
@@ -356,20 +369,29 @@ while True:
 
     print("")
 
-    if (eleccion_jugador == eleccion_computadora):
+    ############
+    ############ ETAPA DE CALCULO
+    ############
+    if (eleccion_jugador == eleccion_computadora):                      # Si ambos eligieron lo mismo, hay empate
         print("\tEmpate!")
     elif (eleccion_jugador == 1 and eleccion_computadora == 3) or (eleccion_jugador == 2 and eleccion_computadora == 1) or (eleccion_jugador == 3 and eleccion_computadora == 2):
-        print("\tGanaste! (+1)")
-        puntaje += 1
-    else:
-        print("\tPerdiste! (-1)")
-        puntaje -= 1
+        print("\tGanaste! (+1)")                                        # Si el jugador eligio algo mejor, entonces gana la ronda
+        puntaje += 1                                                    # Sumo 1 punto al puntaje
+    else:   
+        print("\tPerdiste! (-1)")                                       # Si la compu elegio mejor, entonces el jugador pierde la ronda
+        puntaje -= 1                                                    # Resto 1 punto al puntaje acumulado 
 
-    print(f"\nPuntaje acumulado: {puntaje}")
+    ############
+    ############ TERCERA PANTALLA
+    ############
+    print(f"\nPuntaje acumulado: {puntaje}")                            # Finalizada la etapa de eleccion y la de calculo, muestro el puntaje
 
-    respuesta = input("\nDesea seguir jugando? (Y/N): ").lower()
+    ############
+    ############ PANTALLA FINAL
+    ############
+    respuesta = input("\nDesea seguir jugando? (Y/N): ").lower()        # Compruebo si quiere seguir jugando
     
     print("\n")
 
-    if (respuesta == "n"):
+    if (respuesta == "n"):                                              # En caso de no querer seguir, sale con "n" o "N"
         break
