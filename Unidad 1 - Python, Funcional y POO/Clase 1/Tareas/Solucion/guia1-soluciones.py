@@ -5,7 +5,7 @@ import os
 #
 print("\n\nPidiendo Datos")
 #mi_nombre = "Matias Lapenta"
-mi_nombre = input("Ingrese su nombre: ")
+mi_nombre = input("Ingrese su nombre: ")                        # Pido por consola al usuario que ingrese un valor alfabetico
 
 
 
@@ -13,7 +13,7 @@ mi_nombre = input("Ingrese su nombre: ")
 # Ejercicio 2
 #
 #mi_edad = 30
-mi_edad = int(input("Ingrese su edad: "))
+mi_edad = int(input("Ingrese su edad: "))                       # Pido por consola al usuario, que ingrese un valor entero
 
 
 
@@ -21,7 +21,7 @@ mi_edad = int(input("Ingrese su edad: "))
 # Ejercicio 3
 #
 #mi_altura = 1.64
-mi_altura = float(input("Ingrese su altura: "))
+mi_altura = float(input("Ingrese su altura: "))                 # Pido por consola al usuario, que ingrese un valor decimal
 
 
 
@@ -29,7 +29,7 @@ mi_altura = float(input("Ingrese su altura: "))
 # Ejercicio 4
 #
 #soy_estudiante = False
-soy_estudiante = bool(int(input("Es estudiante? (1/0): ")))
+soy_estudiante = bool(int(input("Es estudiante? (1/0): ")))     # Pido por consola al usuario, que ingrese un valor booleano (1/0)
 
 
 
@@ -37,7 +37,7 @@ soy_estudiante = bool(int(input("Es estudiante? (1/0): ")))
 # Ejercicio 5
 #
 print("\nMostrando Datos")
-print(f"Mi nombre:\t{mi_nombre}")
+print(f"Mi nombre:\t{mi_nombre}")                               # Muestro el valor de lo ingresado por el usuario
 print(f"Mi edad:\t{mi_edad} años")
 print(f"Mi altura:\t{mi_altura} metros")
 print(f"Es estudiante?:\t{soy_estudiante}")
@@ -47,7 +47,7 @@ print(f"Es estudiante?:\t{soy_estudiante}")
 # Ejercicio 6
 #
 print("\nTipos")
-print(f"mi_nombre:\t{type(mi_nombre)}")
+print(f"mi_nombre:\t{type(mi_nombre)}")                         # Muestro cada tipo de dato, llamando a type() y pasandole como argumento mis variables anteriores
 print(f"mi_edad:\t{type(mi_edad)}")
 print(f"mi_altura:\t{type(mi_altura)}")
 print(f"soy_estudiante:\t{type(soy_estudiante)}")
@@ -58,84 +58,84 @@ print(f"soy_estudiante:\t{type(soy_estudiante)}")
 #
 print("\n\nPidiendo Datos")
 #mi_peso = 70
-mi_peso = float(input("Ingrese su peso: "))
+mi_peso = float(input("Ingrese su peso: "))                     # Pido un valor decimal por consola y guardo lo que el usuario ingrese, en una variable
 
 print("\nMostrando Datos")
-print(f"Mi peso:\t\t{mi_peso}Kg")
+print(f"Mi peso:\t\t{mi_peso}Kg")                               # Muestro ese valor por pantalla
 
 
 
 #
 # Ejercicio 8
 #
-mi_IMC = (mi_peso / (mi_altura ** 2))
+mi_IMC = (mi_peso / (mi_altura ** 2))                           # Hago la operacion aritmetica y guardo el resultado en la variable
 
-print(f"Mi IMC:\t\t\t{mi_IMC}")
+print(f"Mi IMC:\t\t\t{mi_IMC}")                                 # Muestro el resultado
 
 
 
 #
 # Ejercicio 9
 #
-mi_IMC_redondeado = round(mi_IMC)
+mi_IMC_redondeado = round(mi_IMC)                               # Llamo a la funcion de redondeo decimal y guardo el resultado en la variable
 
-print(f"Mi IMC redondeado:\t{mi_IMC_redondeado}")
+print(f"Mi IMC redondeado:\t{mi_IMC_redondeado}")               # Muestro el resultado
 
 
 
 #
 # Ejercicio 10
 #
-edad_en_5_años = mi_edad + 5
+edad_en_5_años = mi_edad + 5                                    # Hago la operacion aritmetica y guardo el resultado en la variable
 
 print("\n\nMostrando Datos")
-print(f"Mi edad en 5 años:\t\t{edad_en_5_años} años")
+print(f"Mi edad en 5 años:\t\t{edad_en_5_años} años")           # Muestro el resultado
 
 
 
 
 #
 # Ejercicio 11
-#
-dias_vivivos = (mi_edad * 365)
+#   
+dias_vivivos = (mi_edad * 365)                                  # Hago la operacion aritmetica y guardo el resultado en la variable
 
-print(f"Dias vividos:\t\t\t{dias_vivivos} dias")
+print(f"Dias vividos:\t\t\t{dias_vivivos} dias")                # Muestro el resultado
 
 
 
 #
 # Ejercicio 12
 #
-soy_mayor = (mi_edad >= 18)
+soy_mayor = (mi_edad >= 18)                                     # Hago las operaciones de comparaciones y guardo el resultado en la variable
 
-print(f"Soy mayor de edad?:\t\t{soy_mayor}")
+print(f"Soy mayor de edad?:\t\t{soy_mayor}")                    # Muestro el resultado
 
 
 
 #
 # Ejercicio 13
 #
-IMC_normal = (18.5 <= mi_IMC < 25)
+IMC_normal = (18.5 <= mi_IMC < 25)                              # Hago las operaciones de comparaciones y guardo el resultado en la variable
 
-print(f"Mi IMC es normal?:\t\t{IMC_normal}")
+print(f"Mi IMC es normal?:\t\t{IMC_normal}")                    # Muestro el resultado
 
 
 
 #
 # Ejercicio 14
 #
-soy_mayor_y_estudiante = (soy_mayor and soy_estudiante)
+soy_mayor_y_estudiante = (soy_mayor and soy_estudiante)         # Hago la operacion AND y guardo el resultado en la variable
 
-print(f"Soy mayor y estudiante?:\t{soy_mayor_y_estudiante}")
+print(f"Soy mayor y estudiante?:\t{soy_mayor_y_estudiante}")    # Muestro el resultado
 
 
 
 #
 # Ejercicio 15
 #
-soy_mayor_o_estudiante = (soy_mayor or soy_estudiante)
+soy_mayor_o_estudiante = (soy_mayor or soy_estudiante)          # Hago la operacion OR y guardo el resultado en la variable
 
-print(f"Soy mayor o estudiante?:\t{soy_mayor_o_estudiante}")
+print(f"Soy mayor o estudiante?:\t{soy_mayor_o_estudiante}")    # Muestro el resultado
 
 
 
@@ -216,8 +216,8 @@ print(f"{horas}:{minutos}:{segundos} se tardaria en recorrer {distancia} millas 
 # Ejercicio 20
 #
 print("\n\nPidiendo Datos")
-mi_color_favorito = input("Ingrese su color favorito: ")
-longitud_color_favorito = len(mi_color_favorito)
+mi_color_favorito = input("Ingrese su color favorito: ")        # Pido por consola al usuario, que ingrese un valor alfabetico y lo guardo como cadena de caracteres (STRING)
+longitud_color_favorito = len(mi_color_favorito)                # Obtengo como numero entero, la cantidad de caracteres en la cadena
 
 
 print("\nMostrando Datos")
