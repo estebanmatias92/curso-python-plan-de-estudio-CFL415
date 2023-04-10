@@ -3,7 +3,6 @@ import math
 # Comprobar si un numero es Primo
 
 # Pasos
-
 num = int(input("Ingrese un numero natural: "))
 es_primo = True                                                 # Asumir que el numero puede ser primo, comprobar lo contrario
 
@@ -16,9 +15,9 @@ elif (num > 2 and num % 2 == 0):                                # Si es mayor a 
 else:
     raiz_num = math.ceil(math.sqrt(num))                        # Obtengo la raiz de "num" 
 
-    for i in range(3, raiz_num, 2):                             # Desde 3 hasta la raiz cuadrada de "num", pasando por todos los impares
-        if (num % i == 0):                                      # Comprobar si "num" es divisible por alguno de los impares
-            es_primo = False                                    # Si lo es, entonces no era primo
+    for i in range(3, raiz_num, 2):                             # Recorro desde 3 hasta la raiz cuadrada de "num", pasando por todos los impares
+        if (num % i == 0):                                      # Compruebo si "num" es multiplo de alguno de esos numeros
+            es_primo = False                                    # Si es multiplo de alguno numero "i", entonces "num" no era primo
             break
 
 if (es_primo):                                                  # Si llegamos hasta aca, sin caer en las anteriores condiciones, entonces es primo
