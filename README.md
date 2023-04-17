@@ -52,7 +52,7 @@
     - [Wikipedia: Lenguaje de Programacion](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n)
 - Armado grupo Whatsapp y Classroom
 
-### Unidad 1 - Python, Funcional y POO
+### Unidad 1 - Python Funcional
 
 #### Modulo 1
 
@@ -135,7 +135,7 @@
       - [Python set methods (GFG)](https://www.geeksforgeeks.org/python-set-methods/)
       - [Listas, Tuples, Sets, Strings y Diccionarios (Commit That Line!)](https://www.youtube.com/watch?v=CCUNuqqn7PQ)
 
-### Unidad 2: Proyecto Final
+### Unidad 2: Python OOP y Proyecto Final
 
 #### Modulo 5
 
