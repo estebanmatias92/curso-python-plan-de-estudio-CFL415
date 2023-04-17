@@ -138,12 +138,9 @@
 ### Modulo 5 - Clases y Objetos
 
 - Demo
-  - [Definir clases](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-2/modulo-5/demo/classes.py)
-  - Clases vs Objetos
-  - Inicializar objetos
-  - Metodo constructor
-  - Metodos y Propiedades
-  - Encapsulamiento - Modificadores de acceso
+  - [Clases y Objetos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-2/modulo-5/demo/classes-y-objetos.py)
+  - [Metodos y Propiedades]()
+  - [Encapsulamiento - Modificadores de acceso]()
 - **Recursos**
 - **Trabajo en clase**
   - [Guia 5: Estructuras de Datos (III) - Clases](https://docs.google.com/document/d/1jFqjk1HTbukBDI_dYl2JmYJdkNz4rH3R8rP_9l566Ik/edit?usp=sharing)
