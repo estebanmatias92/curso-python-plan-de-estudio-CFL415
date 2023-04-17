@@ -107,10 +107,11 @@
 - **Trabajo en clase**
   - [Guia 3: Funciones](https://docs.google.com/document/d/180BouVEpBP9wACpsW32aiSiOfEg7mOFler7KqdvQKrs/edit?usp=sharing)
   - Recurso Adicional
-    - [Funciones (Commit That Line!)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#functionsinpython)
+    - [Funciones (Commit That Line!)](https://www.youtube.com/watch?v=hLRoDs4wNCU)
     - [Python Handbook Español - Funciones (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#functionsinpython)
     - [Parametros y Argumentos](https://docs.hektorprofe.net/python/programacion-de-funciones/argumentos-y-parametros/)
     - [Return](https://docs.hektorprofe.net/python/programacion-de-funciones/retorno-de-valores/)
+    - [Recursion (Sergio A. Castaño Giraldo)](https://www.youtube.com/watch?v=FMi7aW1VD5c)
 
 ### Modulo 4 - Colecciones
 
