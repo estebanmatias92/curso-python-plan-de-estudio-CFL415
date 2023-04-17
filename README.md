@@ -131,6 +131,8 @@
       - [Python tuple methods (GFG)](https://www.geeksforgeeks.org/python-tuple-methods/)
       - [Python dictionary methods (GFG)](https://www.geeksforgeeks.org/python-dictionary-methods/)
       - [Python set methods (GFG)](https://www.geeksforgeeks.org/python-set-methods/)
+      - [Python set (Python Official Docs)](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
+      - [Python set (learnbyexample.org)](https://www.learnbyexample.org/python-set/)
       - [Listas, Tuples, Sets, Strings y Diccionarios (Commit That Line!)](https://www.youtube.com/watch?v=CCUNuqqn7PQ)
 
 ## Unidad 2: Python (OOP) y Proyecto Final
