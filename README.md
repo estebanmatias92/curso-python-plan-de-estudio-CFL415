@@ -52,9 +52,9 @@
     - [Wikipedia: Lenguaje de Programacion](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n)
 - Armado grupo Whatsapp y Classroom
 
-### Unidad 1 - Python Funcional
+### Unidad 1 - Python
 
-#### Modulo 1
+#### Modulo 1 (Tipos de Datos y Operadores)
 
 - Demo
   - [Hola mundo](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-1/demo/hola_mundo.py)
@@ -77,7 +77,7 @@
       - [Tablas de Verdad (Conectores o Compuertas Logicas)](https://lamaquinaoraculo.com/matematicas/tablas-verdad-proposicional/)
       - [Tablas de Verdad (Platzi)](https://www.youtube.com/watch?v=Pfyuv5ZnNNw)
 
-#### Modulo 2
+#### Modulo 2 (Estructuras de Control)
 
 - Demo
   - [if-else](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-2/demo/if-else.py)
@@ -96,7 +96,7 @@
       - [Python Handbook Español - Condicionales (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#controlstatementsinpython)
       - [Python Handbook Español - Bucles (freecodecamp)](https://www.freecodecamp.org/espanol/news/el-manual-de-python/#loopsinpython)
 
-#### Modulo 3
+#### Modulo 3 (Funciones)
 
 - Demo
   - [Definir y llamar funciones](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-3/demo/functions-no-return.py)
@@ -113,7 +113,7 @@
     - [Parametros y Argumentos](https://docs.hektorprofe.net/python/programacion-de-funciones/argumentos-y-parametros/)
     - [Return](https://docs.hektorprofe.net/python/programacion-de-funciones/retorno-de-valores/)
 
-#### Modulo 4
+#### Modulo 4 (Colecciones)
 
 - Demo
   - [Listas (list)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-4/demo/listas.py)
@@ -135,9 +135,9 @@
       - [Python set methods (GFG)](https://www.geeksforgeeks.org/python-set-methods/)
       - [Listas, Tuples, Sets, Strings y Diccionarios (Commit That Line!)](https://www.youtube.com/watch?v=CCUNuqqn7PQ)
 
-### Unidad 2: Python OOP y Proyecto Final
+### Unidad 2: Python (OOP) y Proyecto Final
 
-#### Modulo 5
+#### Modulo 5 (Clases y Objetos)
 
 - Demo
   - [Definir clases](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-2/modulo-5/demo/classes.py)
