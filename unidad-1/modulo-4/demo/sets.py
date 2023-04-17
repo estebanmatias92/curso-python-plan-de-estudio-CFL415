@@ -68,23 +68,27 @@ for elemento in mi_conjunto:
 # Puedo obtener uniones, diferencias e intersecciones entre conjuntos.
 #
 
-# Unión de conjuntos
+# Unión de conjuntos, suma de ambos conjuntos
 conjunto1 = {1, 2, 3}
 conjunto2 = {3, 4, 5}
 conjunto_union = conjunto1.union(conjunto2)
 print("\nUnión de conjuntos:", conjunto_union)
+print("Unión de conjuntos:", (conjunto1 | conjunto2))
 
-# Intersección de conjuntos
+# Intersección de conjuntos, elementos comunes entre ambos
 conjunto_interseccion = conjunto1.intersection(conjunto2)
 print("\nIntersección de conjuntos:", conjunto_interseccion)
+print("Intersección de conjuntos:", conjunto1 & conjunto2)
 
-# Diferencia de conjuntos
+# Diferencia entre los conjuntos, del primero con respecto al segundo y luego viceversa
 conjunto_diferencia = conjunto1.difference(conjunto2)
-print("\nDiferencia de conjuntos:", conjunto_diferencia)
+print("\nDiferencia del primer conjunto con el segundo:", conjunto_diferencia)
+print("Diferencia del segundo conjunto con el primero:", conjunto2 - conjunto1)
 
-# Diferencia simétrica de conjuntos
+# Diferencia simétrica de conjuntos, elementos que no son cumunes entre ambos
 conjunto_diferencia_simetrica = conjunto1.symmetric_difference(conjunto2)
 print("\nDiferencia simétrica de conjuntos:", conjunto_diferencia_simetrica)
+print("Diferencia simétrica de conjuntos:", conjunto1 ^ conjunto2)
 
 # Comprobar si un conjunto es subconjunto de otro
 conjunto1 = {1, 2}
