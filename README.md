@@ -57,11 +57,11 @@
 #### Modulo 1
 
 - Demo
-  - [Hola mundo](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-1/Demo/hola_mundo.py)
-  - [Entrada y salida de datos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-1/Demo/entrada_salida.py)
-  - [Operaciones aritmeticas basicas](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-1/Demo/aritmetica.py)
-  - [Operadores Comparacion](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-1/Demo/operadores_comparacion.py)
-  - [Operadores Logicos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-1/Demo/operadores_logicos.py)
+  - [Hola mundo](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-1/demo/hola_mundo.py)
+  - [Entrada y salida de datos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-1/demo/entrada_salida.py)
+  - [Operaciones aritmeticas basicas](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-1/demo/aritmetica.py)
+  - [Operadores Comparacion](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-1/demo/operadores_comparacion.py)
+  - [Operadores Logicos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-1/demo/operadores_logicos.py)
 - **Recursos**
   - [Anatomía del Código (I) - Sentencias, Expresiones, Variables y Operadores](https://docs.google.com/document/d/1x05TEvptNmd2wyo5TsOFnmxXzQVtSFkVTSawUbf-9LI/edit?usp=sharing)
     - [Imagen: Anatomia de una Sentencia](https://drive.google.com/file/d/1OUOsqQsQIiIYDOSWMjSoelrtTsiWdvvO/view?usp=sharing)
@@ -80,9 +80,9 @@
 #### Modulo 2
 
 - Demo
-  - [if-else](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-3/Demo/if-else.py)
-  - [for](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-3/Demo/for.py)
-  - [while](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-3/Demo/while.py)
+  - [if-else](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-2/demo/if-else.py)
+  - [for](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-2/demo/for.py)
+  - [while](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-2/demo/while.py)
 - **Recursos**
   - [Imagen: Anatomia Estructura de Control If-Else](https://drive.google.com/file/d/1gZSIrwyC5VVpeGehatltLCU2iOgrajZm/view?usp=sharing)
   - [Imagen: Anatomia Estructura de Control For](https://drive.google.com/file/d/1gq_WoR03LujH1MxDQph51w67RjQMZpp9/view?usp=sharing)
@@ -99,9 +99,9 @@
 #### Modulo 3
 
 - Demo
-  - [Definir y llamar funciones](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-5/Demo/functions-no-return.py)
-  - [Funciones con retorno](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-5/Demo/functions.py)
-  - [Parametros y Argumentos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-5/Demo/functions.py)
+  - [Definir y llamar funciones](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-3/demo/functions-no-return.py)
+  - [Funciones con retorno](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-3/demo/functions.py)
+  - [Parametros y Argumentos](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-3/demo/functions.py)
 - **Recursos**
   - [Anatomía del Código (II) - Procesos y Funciones](https://docs.google.com/document/d/1ANHRdT6TXfOcOM5haP_imd3pP-KSVhnzalRb1zbCh10/edit?usp=sharing)
     - [Imagen: Anatomia de una Funcion](https://drive.google.com/file/d/1h_dJPsWyhRtA0SfCBAWsCD13x_eHghXR/view?usp=sharing)
@@ -116,10 +116,10 @@
 #### Modulo 4
 
 - Demo
-  - [Listas (list)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-7/Demo/listas.py)
-  - [Tuplas (tuple)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-7/Demo/tuples.py)
-  - [Diccionarios (dict)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-7/Demo/dictionaries.py)
-  - [Conjuntos (set)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%201%20-%20Python%2C%20Funcional%20y%20POO/modulo-7/Demo/sets.py)
+  - [Listas (list)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-4/demo/listas.py)
+  - [Tuplas (tuple)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-4/demo/tuples.py)
+  - [Diccionarios (dict)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-4/demo/dictionaries.py)
+  - [Conjuntos (set)](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-1/modulo-4/demo/sets.py)
 - **Recursos**
   - [Estructuras de Datos (II) - list (Lista)](https://docs.google.com/document/d/1cBf27BdouByrsny9PBNY3267BUeBXxkra4Se_3ndMO4/edit?usp=sharing)
   - [Estructuras de Datos (II) - tuple (Tupla)](https://docs.google.com/document/d/1_6E_kLnWz9PHQYYs3_d9xyXD_vrPH6OjS584jCaqyds/edit?usp=sharing)
@@ -140,7 +140,7 @@
 #### Modulo 5
 
 - Demo
-  - [Definir clases](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/Unidad%202%20-%20Proyecto%20Final/modulo-11/Demo/classes.py)
+  - [Definir clases](https://github.com/estebanmatias92/curso-python-plan-de-estudio-CFL415/blob/main/unidad-2/modulo-5/demo/classes.py)
   - Clases vs Objetos
   - Inicializar objetos
   - Metodo constructor
