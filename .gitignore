@@ -1,5 +1,15 @@
-Solucion
-curricular
+# Python
+__pycache__
+
+# Google Docs
 *.gdoc
-!**/Clase 1/Tareas/Solucion/
-!**/Clase 3/Tareas/Solucion/
+
+# Study Plan
+solucion
+curricular
+
+# Enabling Solutions
+!**/modulo-1/tareas/solucion/
+!**/modulo-2/tareas/solucion/
+!**/modulo-3/tareas/solucion/
+
