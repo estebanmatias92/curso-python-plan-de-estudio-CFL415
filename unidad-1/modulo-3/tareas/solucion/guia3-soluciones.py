@@ -1,6 +1,17 @@
+# Import generic system libs
+import sys
+import os
+
+# Set the current and base directories
+current_dir = os.path.dirname(os.path.abspath(__file__))
+base_dir = os.path.abspath(os.path.join(current_dir, '..', '..', '..', '..'))
+sys.path.insert(0, base_dir)
+
+# Import module related libs
 import math
 import random
-from helpers import *
+from recursos.helpers import *
+
 
 #
 # Ejercicio 1
@@ -156,12 +167,12 @@ def is_armstrong(num):
         return False                                                # Si es asi salgo
 
     i = num                                                         # Copio el valor en una variable nueva
-    poweer = count_digits(num)                                      # Obtengo la cantidad de digitos en el numero
+    power = count_digits(num)                                       # Obtengo la cantidad de digitos en el numero
     suma = 0                                                        # Preparo la variable para la suma
     
     while i:                                                        # Itero mientras "i" no sea cero
         digit = (i % 10)                                            # Obtengo el digito 
-        suma += (digit ** poweer)                                   # Suma el resultado del digito elevado a la cantidad de digitos   
+        suma += (digit ** power)                                    # Suma el resultado del digito elevado a la cantidad de digitos   
         i //= 10                                                    # Actualizo el valor de "i" con los digitos restantes
 
     return (num == suma)                                            # Cuando el bucle termina, compruebo si el "num" original es igual a la suma de sus digitos y retorno el resultado booleano
