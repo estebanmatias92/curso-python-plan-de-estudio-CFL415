@@ -43,3 +43,17 @@ def is_even(num):
 #
 def is_odd(num):
     return num % 2 != 0
+
+
+#
+# Funcion que toma un STRING como parametro, comprueba si es vocal y devuelve un valor BOOLEANO
+#
+# Parametros:
+#   (str) cadena
+#
+# Retorno:
+#   (bool)
+#
+def is_vowel(cadena):
+    minuscula = cadena.lower()
+    return (minuscula in "aeiou") or (minuscula in "áéíóú")
