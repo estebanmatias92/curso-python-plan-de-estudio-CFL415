@@ -148,6 +148,7 @@ print("\nCrear una copia superficial de la lista:", mi_lista_copia)
 # Concatenar dos listas
 lista1 = [1, 2, 3]
 lista2 = [4, 5, 6]
+lista1 += lista2
 lista_concatenada = lista1 + lista2
 print("\nConcatenar dos listas:", lista_concatenada)
 

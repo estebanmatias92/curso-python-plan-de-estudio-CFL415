@@ -110,6 +110,7 @@ print("\nCrear una copia superficial de la tupla:", mi_tupla_copia)
 # Concatenar dos tuplas
 tupla1 = (1, 2, 3)
 tupla2 = (4, 5, 6)
+tupla1 += tupla2
 tupla_concatenada = tupla1 + tupla2
 print("\nConcatenar dos tuplas:", tupla_concatenada)
 
